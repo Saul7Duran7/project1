@@ -1,0 +1,11 @@
+nav.links ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .links {
+    height: 40px;
+    border-bottom: solid #353535;
+    
+  }
